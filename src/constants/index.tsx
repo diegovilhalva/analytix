@@ -389,7 +389,7 @@ export const footerData = {
       ],
     },
   ],
-  copyright: '© 2024 codewithsadee',
+  copyright: '© 2024 Diego Vilhalva',
   socialLinks: [
     {
       href: 'https://x.com/codewithsadee_',
