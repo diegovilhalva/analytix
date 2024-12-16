@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import { ReactLenis } from "lenis/react"
 import Brand from "./components/Brand"
 import Feature from "./components/Feature"
+import Proccess from "./components/Proccess"
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
           <Hero />
           <Brand />
           <Feature />
+          <Proccess />
         </main>
       </div>
     </ReactLenis>
