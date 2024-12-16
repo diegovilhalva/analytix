@@ -4,6 +4,8 @@ import { ReactLenis } from "lenis/react"
 import Brand from "./components/Brand"
 import Feature from "./components/Feature"
 import Proccess from "./components/Proccess"
+import Overview from "./components/Overview"
+import Review from "./components/Review"
 
 const App = () => {
   return (
@@ -15,6 +17,8 @@ const App = () => {
           <Brand />
           <Feature />
           <Proccess />
+          <Overview />
+          <Review />
         </main>
       </div>
     </ReactLenis>
