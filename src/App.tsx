@@ -6,6 +6,7 @@ import Feature from "./components/Feature"
 import Proccess from "./components/Proccess"
 import Overview from "./components/Overview"
 import Review from "./components/Review"
+import Blog from "./components/Blog"
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Proccess />
           <Overview />
           <Review />
+          <Blog />
         </main>
       </div>
     </ReactLenis>
