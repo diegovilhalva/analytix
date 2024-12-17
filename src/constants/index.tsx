@@ -232,19 +232,19 @@ export const reviewData = {
       title: 'We’re building a better application now, thanks to AnalytiX.',
       text: 'Our application is undergoing significant improvements with the help of NioLand, resulting in enhanced functionality, improved user experience',
       reviewAuthor: 'Wade Warren',
-      date: '3month ago',
+      date: '3 months ago',
     },
     {
       title: 'Great Service from a expert support system of AnalytiX',
       text: 'Experience exceptional service and support from AnalytiX expert team, dedicated to providing knowledgeable assistance and ensuring a seamless',
       reviewAuthor: 'Dianne Russell',
-      date: '3month ago',
+      date: '3 months ago',
     },
     {
       title: 'Pricing is amazing for the small businesses around the world',
       text: 'Our pricing is tailored to suit the needs of small businesses worldwide, offering affordable and competitive rates that provide excellent value for',
       reviewAuthor: 'Marvin McKinney',
-      date: '3month ago',
+      date: '3 months ago',
     },
   ],
 };
